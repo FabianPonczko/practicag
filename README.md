@@ -1,9 +1,2 @@
 # practicag
-practic
-asdfasdf
-sadfasdfa
-sadfsadfsad
-sadfsadfsad
-fsadfsadfsad
-fsadfsadf
-sadf
+Lo que decia no tenia sentido, ahora esta organizado
